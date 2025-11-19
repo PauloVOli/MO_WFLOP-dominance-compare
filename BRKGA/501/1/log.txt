@@ -1,0 +1,21 @@
+============================== LOG ==============================
+Instance: 501
+Run: 1
+Metaheuristic: BRKGA-MOEAD
+Execution started at: Wed Nov 19 12:34:16 AM -03 2025
+5
+
+Number of subproblems: 100
+Number of neighbors: 10
+Number of fixed turbines: 3
+Number of mobile turbines: 5
+Wind: 16.000000000000
+Angle: 240.000000000000
+
+Run time:
+
+real	0m37,746s
+user	0m36,050s
+sys	0m1,684s
+Execution ended at: Wed Nov 19 12:34:54 AM -03 2025
+=================================================================
